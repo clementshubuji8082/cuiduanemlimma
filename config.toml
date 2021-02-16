@@ -1,0 +1,4 @@
+baseURL = "https://trumpetmusicboch.vercel.app"
+languageCode = "en-us"
+title = "All About That Bass Trumpet Sheet Music"
+theme = "hugo-theme-minos"
